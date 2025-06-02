@@ -1,5 +1,5 @@
 # waypoints for sypb and ebot and yapb
-Due to the fact that HsK_CNN has abandoned the updates of wavepoints, it was decided to just create a separate topic with ewp and pwf and formats of wavepoints for different bots, be it sypb or ebot or yapb bots, but it's better to download the whole archive.
+Due to the fact that HsK_CNN has abandoned the updates of sypb, it was decided to just create a separate topic with ewp and pwf and formats of waypoints for different bots, be it sypb or ebot or yapb bots, but it's better to download the whole archive.
 
 
 ## Goals of the project
