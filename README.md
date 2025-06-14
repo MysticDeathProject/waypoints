@@ -11,4 +11,11 @@ Due to the fact that HsK_CNN has abandoned the updates of sypb, it was decided t
 
 ##### Download
 Better download all archive
-
+<br>
+[yapb last build](https://github.com/yapb/yapb/releases)
+</br>
+<br>
+[ebot last build](https://github.com/EfeDursun125/CS-EBOT/releases)
+<br>
+[sypb last build v1.50](https://disk.yandex.com/d/uUPdEdEmfPaZEw)
+</br>
