@@ -10,10 +10,12 @@ Due to the fact that HsK_CNN has abandoned the updates of sypb, it was decided t
 </ul>
 
 ##### Download
-Better download all archive
+[Download Waypoints main.zip](https://github.com/MysticDeathProject/waypoints/archive/refs/heads/main.zip)
+<br>
+<br>
+Better test bots byself
 <br>
 [yapb last build](https://github.com/yapb/yapb/releases)
-</br>
 <br>
 [ebot last build](https://github.com/EfeDursun125/CS-EBOT/releases)
 <br>
